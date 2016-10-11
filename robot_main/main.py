@@ -15,4 +15,20 @@ import joblib #pipline program
 # - Path Planning
 # - Controller
 
+# Ex Lab 3 
+# Need to run Nodes:
+# me212_node.py
+# apriltag_navi.py
 
+def Robot_node(): 
+ 
+
+def Nav_node():
+
+  
+  
+def main():
+  
+  
+if __name__ == __main__:
+  main()
