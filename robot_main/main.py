@@ -9,6 +9,8 @@ import joblib #pipline program
 
 # To-Do List
 
+# Setup Procman
+
 # Node Calls:
 # - Task Progress
 # - Belief State
