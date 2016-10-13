@@ -19,9 +19,9 @@ import joblib #pipline program
 
 # Ex Lab 3 
 # Need to run Nodes:
-# me212_node.py
-# apriltag_navi.py
-# 
+# - me212_node.py
+# - apriltag_navi.py
+
 
 def Robot_node(): 
  
